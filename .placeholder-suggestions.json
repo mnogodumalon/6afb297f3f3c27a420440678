@@ -1,0 +1,19 @@
+{
+  "UmfragenDialog.tsx": {
+    "titel": "z. B. Teamessen im Mai",
+    "beschreibung": "Worum geht es bei der Umfrage?",
+    "ort": "z. B. Café Central, Berlin",
+    "finaler_termin": "Welcher Termin gewinnt?"
+  },
+  "TerminvorschlaegeDialog.tsx": {
+    "umfrage": "Welche Umfrage?",
+    "beginn": "Wann beginnt der Termin?",
+    "ende": "Wann endet der Termin?"
+  },
+  "AntwortenDialog.tsx": {
+    "umfrage": "Welche Umfrage?",
+    "terminvorschlag": "Welcher Terminvorschlag?",
+    "teilnehmer_firstname": "z. B. Anna",
+    "teilnehmer_lastname": "z. B. Müller"
+  }
+}

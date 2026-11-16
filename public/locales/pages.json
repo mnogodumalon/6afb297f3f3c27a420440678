@@ -1,0 +1,29 @@
+{
+  "pages": {
+    "en": {
+      "Abschließen": "Close",
+      "Aktuell läuft keine offene Umfrage.": "No open poll at the moment.",
+      "Alle offenen Umfragen haben einen finalen Termin.": "All open polls have a final date.",
+      "Beliebtesten Termin festlegen": "Set most popular date",
+      "Entscheidung offen": "Decision pending",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Finaler Termin": "Final date",
+      "Geschlossen": "Closed",
+      "Keine Umfrage in dieser Ansicht.": "No polls in this view.",
+      "Lege deine erste Umfrage mit mehreren Terminvorschlägen an.": "Create your first poll with multiple date proposals.",
+      "Meiste Ja": "Most Yes",
+      "Neue Umfrage": "New poll",
+      "Noch keine Ja-Stimmen": "No Yes votes yet",
+      "Noch keine Terminvorschläge.": "No date proposals yet.",
+      "Offen": "Open",
+      "Offene Umfragen": "Open polls",
+      "Ohne finalen Termin": "No final date",
+      "Termin festlegen": "Set date",
+      "Umfrage abschließen": "Close poll",
+      "Vorne: {0} ({1} Ja)": "Leading: {0} ({1} Yes)",
+      "{0} Ja · {1} Vielleicht": "{0} Yes · {1} Maybe",
+      "{0} — hier läuft gerade die Abstimmung.": "{0} — voting is currently in progress."
+    }
+  },
+  "v": 1
+}
